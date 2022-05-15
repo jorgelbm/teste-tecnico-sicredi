@@ -1,0 +1,26 @@
+{
+  "name": "teste-tecnico-sicredi",
+  "version": "1.0.0",
+  "description": "Codigo da resolucao das questoes do teste tecnico do desenvolvetech sicredi 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgelbm/teste-tecnico-sicredi.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jorge Lucas Barbosa Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgelbm/teste-tecnico-sicredi/issues"
+  },
+  "homepage": "https://github.com/jorgelbm/teste-tecnico-sicredi#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
